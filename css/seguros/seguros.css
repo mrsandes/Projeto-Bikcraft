@@ -11,6 +11,10 @@
     padding-bottom: 3.75rem;
 }
 
+#seguros .seguros {
+    padding-top: 0;
+}
+
 .seguros h2 {
     grid-column: 1/-1;
 }
@@ -53,8 +57,8 @@
     position: absolute;
     left: -1.3125rem;
     background-image: url(../../img/icones/lista.svg);
-    width: 0.8125rem;
-    height: 0.5625rem;
+    width: 1rem;
+    height: 0.75rem;
     content: "";
 }
 
