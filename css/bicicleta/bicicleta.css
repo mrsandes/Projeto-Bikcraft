@@ -22,6 +22,10 @@
     min-width: 100%;
 }
 
+#bicicleta .bicicleta-conteudo p {
+    text-transform: uppercase;
+}
+
 .bicicleta-conteudo > p {
     margin-bottom: 32px;
 }
